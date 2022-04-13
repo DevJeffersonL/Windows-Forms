@@ -1,0 +1,17 @@
+C:\Users\dev\Documents\Linear_Search\bin\Debug\net6.0-windows\Linear_Search.exe
+C:\Users\dev\Documents\Linear_Search\bin\Debug\net6.0-windows\Linear_Search.deps.json
+C:\Users\dev\Documents\Linear_Search\bin\Debug\net6.0-windows\Linear_Search.runtimeconfig.json
+C:\Users\dev\Documents\Linear_Search\bin\Debug\net6.0-windows\Linear_Search.dll
+C:\Users\dev\Documents\Linear_Search\bin\Debug\net6.0-windows\Linear_Search.pdb
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.vbproj.AssemblyReference.cache
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.Form1.resources
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.vbproj.GenerateResource.cache
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.AssemblyInfo.vb
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.vbproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.dll
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\refint\Linear_Search.dll
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.pdb
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\Linear_Search.genruntimeconfig.cache
+C:\Users\dev\Documents\Linear_Search\obj\Debug\net6.0-windows\ref\Linear_Search.dll
